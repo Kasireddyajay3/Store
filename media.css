@@ -1,0 +1,39 @@
+
+@media screen and (min-width:375px) and (max-width: 667px){
+    
+    section{
+        flex-direction: column;
+        height: auto;
+    }
+    .f1{
+        flex-direction: column;
+        height: auto;
+    }
+    nav div h3{
+        font-size: 15px;
+        margin: 0px;
+    }
+    nav{
+        gap: 5px;
+    }
+    .navi-links{
+        margin: 0 0 5px 0;
+        height: 60px;
+    }
+    
+    .navi-links img{
+        width: 40px;
+        height: 40px;
+
+    }
+}
+/* @media screen and (min-width:668px){
+    section, div {
+        display: block;
+    }
+}
+@media screen and (min-width:992px){
+    .f1 .d1 {
+        display: block;
+    }
+} */

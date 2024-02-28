@@ -1,0 +1,14 @@
+.f1, .d1{
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex: 1;
+    margin-right: 5px;
+    height: 200px;
+    }
+    .f1{
+        height: 220px;
+        border-color: whitesmoke;
+        background-color: lightgoldenrodyellow;
+    }

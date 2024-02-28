@@ -1,0 +1,38 @@
+
+/* nav{
+    width: 100%;
+    display: flex;
+} */
+/* .d2 {
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    margin-bottom:  5px;
+    float: left;
+    width:  31%;
+    margin-right: 30px;
+    width: 30.5%;
+    height: 90px;
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow;
+    font-size: 30px;
+} */
+
+.navi-links{
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    margin-bottom:  5px;
+    float: left; 
+    /* box-sizing: border-box; */
+    width:  31%;
+    margin-right: 5px;
+    width: 30.5%;
+    height: 90px;
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow;
+    font-size: 30px;
+}
+
+
+nav div h3{
+    margin: 0px;
+}

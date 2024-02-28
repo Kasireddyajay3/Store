@@ -1,0 +1,14 @@
+ section, div{
+        border: 2px solid white;
+        margin-bottom: 10px;
+        padding: 10px;
+        display: flex;
+        flex: 1;
+        height: 250px;
+        margin-right: 5px;
+    }
+    section{
+        height: 280px;
+        border: 2px solid whitesmoke;
+        clear: both;
+    }
