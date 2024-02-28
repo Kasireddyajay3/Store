@@ -19,6 +19,7 @@
     .navi-links{
         margin: 0 0 5px 0;
         height: 60px;
+        width: auto;
     }
     
     .navi-links img{
@@ -26,14 +27,29 @@
         height: 40px;
 
     }
-}
-/* @media screen and (min-width:668px){
-    section, div {
-        display: block;
+    option{
+        width: auto;
     }
 }
-@media screen and (min-width:992px){
-    .f1 .d1 {
-        display: block;
-    }
-} */
+
+@media screen and (min-width:360px) and (max-width:740px){
+    nav div h3{
+        font-size: 18px;
+          }  
+        .navi-links{
+            margin: 0 0 5px 0;
+                height: 60px;
+                width: auto;
+        }
+        .navi-links img{
+            width: 40px; height: 40px;
+        }
+            section{
+            flex-direction: column;
+            height: auto;
+           }
+           .f1{
+            flex-direction: column;
+            height: auto;
+           }           
+}
